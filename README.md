@@ -1,2 +1,8 @@
 # faker
-faker-py.
+> faker-python
+
+## Usage
+### Installation
+```
+$ pip install faker-python
+```
